@@ -1,5 +1,6 @@
 需要自行下载chattts模型
 可以参考下载chattts（1）.ipynnb，下载会比较慢
+使用的是zhipuai的api，需要自行去官网注册一个，以可以将代码中的ai换成其他大模型
 speakers中包含男生女生音色可以直接下载到模型中使用b代表男性音色，g代表女性音色
 第一次执行demo时需要先输入yes创建一个prompt
 每次运行只能修改一次prompt即只有第一次输入yes有效
