@@ -14,6 +14,10 @@
 ![43a111a3eb244a829a0e2d1b27bf2581](https://github.com/user-attachments/assets/ca20604c-5e9a-40eb-87bf-d1108264088d)
     如果你想改人物只需要在修改demo输入yes就可以更改了 （目前每次打开只能重新生成一次，不能重复改），想要再次修改只能重启demo
 
- ![acc83ac5f2894210aec761b11c91f359](https://github.com/user-attachments/assets/316b919f-f952-481e-b467-d55633f63d11)
-![6d7f69f0942944c8bffbc95d0e3e174c](https://github.com/user-attachments/assets/ada6fb26-122f-41d7-a6cb-287a7bc791e2)
+![6d7f69f0942944c8bffbc95d0e3e174c](https://github.com/user-attachments/assets/ae062d2c-4c78-4924-8935-4c3ebf82f747)
+
+![acc83ac5f2894210aec761b11c91f359](https://github.com/user-attachments/assets/f6a6c338-cf08-4d59-b4e6-d9c063434844)
+
+
  大概流程就是这样，目前任在优化中，待续...
+ 具体的思路可以去我的csdn查看https://blog.csdn.net/2301_81587902/article/details/141822190?spm=1001.2014.3001.5501
